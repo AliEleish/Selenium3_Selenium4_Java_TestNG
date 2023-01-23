@@ -1,6 +1,6 @@
 # Selenium3_Selenium4_Java_TestNG
 
-** This is a combined test automation java project for Selenium 3 and Selenium 4 versions with TestNG automates the following Websites:  **
+**This is a combined test automation java project for Selenium 3 and Selenium 4 versions with TestNG automates the following Websites:**
 
 - [The Internet](http://the-internet.herokuapp.com/)                   *Selenium 3* & *Selenium 4*    
 - [Orange HRM](https://opensource-demo.orangehrmlive.com/)             *Selenium 4*
@@ -8,7 +8,7 @@
 - [Where am I](https://where-am-i.org/)                                *Selenium 4*
 - [Google](https://www.google.com/)                                    *Selenium 4*
 
-**The project covers the following topics **
+**The project covers the following topics**
 
 ***Selenium 3***
 1. How To Find WebElements
